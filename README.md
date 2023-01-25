@@ -1,2 +1,2 @@
-# Chenai-house-price-prediction
+# Chennai-house-price-prediction
 house price predction 
